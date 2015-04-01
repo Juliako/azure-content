@@ -16,7 +16,7 @@
 	ms.date="04/01/2015" 
 	ms.author="juliako"/>
 
-#How To: Update Media Services after Rolling Storage Access Keys
+#How To: Update Media Services after Rolling Storage Access Keys 
 
 When you create a new Azure Media Services account, you are also asked to select an Azure Storage account that is used to store your media content. Note that you can add more than one storage accounts to your Media Services account.
 
